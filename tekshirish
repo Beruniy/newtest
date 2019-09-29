@@ -8,3 +8,6 @@ elif  son == 'Yuq':
 
 else:
     print("Iltimos Ha/Yuq deb javob bering;)")
+
+
+#O'zgartirildi.
