@@ -1,0 +1,10 @@
+son = input("Qorningiz ochmi?: ")
+
+if  son  == 'Ha':
+    print("Unda ovqatlaning!")
+
+elif  son == 'Yuq':
+    print("Dasrlarizni qiling!!!")
+
+else:
+    print("Iltimos Ha/Yuq deb javob bering;)")
